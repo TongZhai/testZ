@@ -24,12 +24,14 @@ unordered list
 - Item
 
 ordered lists
+
 1. Item 1
 2. Item 2
 3. Item 3
 
 
 nested list:
+
 1. Item 1
   1. A corollary to the above item.
   2. Yet another point to consider.
