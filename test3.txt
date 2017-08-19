@@ -1,1 +1,2 @@
 this is to be merged in merge 2
+i just created text 4
